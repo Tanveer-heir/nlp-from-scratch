@@ -2,7 +2,6 @@
 
 15 mechanical NLP implementations in raw PyTorch — no HuggingFace Trainer, no shortcuts.
 Each project is scoped to one concept, one paper, one key implementation challenge.
-Built as part of a structured NLP engineering curriculum alongside a 60-paper reading list.
 
 ---
 
