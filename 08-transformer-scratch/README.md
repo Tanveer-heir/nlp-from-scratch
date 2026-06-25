@@ -1,4 +1,4 @@
-# Mini Transformer Encoder–Decoder — From Scratch
+# Mini Transformer Encoder–Decoder - From Scratch
 
 > A complete, from-scratch implementation of the original Transformer architecture in PyTorch — no `nn.Transformer`, no `nn.MultiheadAttention` — trained on a toy sequence-to-sequence task (sequence reversal).
 
